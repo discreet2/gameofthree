@@ -1,0 +1,1 @@
+java -jar build/libs/gameofthree-0.0.1-SNAPSHOT.jar --spring.config.location=src/main/resources/application.properties
