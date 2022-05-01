@@ -1,6 +1,6 @@
 # Game Of Three
 
-##Build
+## Build
 1. After cloning the repository, go to the `gameofthree` directory
 2. Checkout `git checkout master` branch
 3. Execute `gradle clean build` from terminal to build the source
